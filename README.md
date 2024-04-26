@@ -1,4 +1,3 @@
-# 4610GroupProject2
 # MIST4610GroupProject2Team2
 ## Team Name:
 21484 Group 2
